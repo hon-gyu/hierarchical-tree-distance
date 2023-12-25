@@ -49,6 +49,8 @@ In the calculation of the AKB distance, when base 10 logarithm is used, Property
 
 ## Example
 
+Tree used in the example:
+
 ![image](assets/img/eg_tree.png)
 
 AKB distance matrix for each pair of nodes ($\tau=3$):
