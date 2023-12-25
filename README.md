@@ -4,7 +4,7 @@ This repository provides an implementation of the AKB tree distance, a novel mea
 
 It is ideal for evaluating hierarhical multiclass classification (HMC) model or as a distance metric in clustering algorithms where features have inherent tree structure.
 
-The definition of AKB distance is based on paper [A Hierarchical Tree Distance Measure for Classiﬁcation](https://www.researchgate.net/publication/314504640_A_Hierarchical_Tree_Distance_Measure_for_Classification). This implementation leverages the [anytree](https://github.com/c0fec0de/anytree) library to represent structure.
+The definition of AKB distance is based on paper [A Hierarchical Tree Distance Measure for Classiﬁcation](https://www.researchgate.net/publication/314504640_A_Hierarchical_Tree_Distance_Measure_for_Classification). This implementation leverages the [anytree](https://github.com/c0fec0de/anytree) library to represent tree structure.
 
 ## Calculation
 
